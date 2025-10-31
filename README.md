@@ -128,7 +128,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 ------
 
 
-# Ciao, sono Isaac Maldonado 👨🏻‍💻 IT 
+# Ciao, sono Isaac Maldonado 👨🏻‍💻 🇮🇹 
 ### Sviluppatore Full-Stack ed Entusiasta di Cybersecurity & Data Analysis 🚀
 
 ![https://www.linkedin.com/in/isaac-maldonado-96344414b/](IsaacMaldonadoCode1.png)
