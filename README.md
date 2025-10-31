@@ -35,11 +35,11 @@ For those seeking a deeper insight into my expertise across Full-Stack Developme
 
 ## Cybersecurity & Data Analysis Technology 💰
 
-I'm passionate about Cybersecurity technology and its impact on the financial, pharma, governnace of the world and beyond. Here are some aspects related to cryptocurrencies cybersecurity and hacking that interest me:
+I'm passionate about Cybersecurity technology and its impact on the financial, pharma, governnace of the world and beyond. Here are some aspects related to cybersecurity and hacking that interest me:
 
 - [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Qwasp Foundation Logo" width="15"/>](https://owasp.org/?utm_source=chatgpt.com) **OWASP Foundation**: Explore the world of cyber security.
   
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Krebson Security Logo" width="15"/>]https://krebsonsecurity.com) **Krebson Security**: In-depth security news and Investigation
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Krebson Security Logo" width="15"/>](https://krebsonsecurity.com) **Krebson Security**: In-depth security news and Investigation
  
 - [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Hack the Box Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box**: Build and sustain high-performing cyber teams keeping your organization protected against real world threats.
 
@@ -51,7 +51,7 @@ If you have questions, suggestions, or just want to chat about web development o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/isaac-maldonado-96344414b/)
 </br>
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=abigailmaldonado128@gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
 
 <br>
 
@@ -100,13 +100,13 @@ Para quienes buscan un entendimiento más profundo de mi experiencia en Desarrol
 Soy un apasionado de la tecnología blockchain y su impacto en el mundo financiero y más allá. Aquí hay algunos aspectos relacionados con criptomonedas y blockchain que me interesan:
 
 
-- [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin Logo" width="15"/>](https://owasp.org/?utm_source=chatgpt.com) **OWASP Foundation**: Explora el mundo de la ciberseguridad.
+- [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="QWASP Foundation Logo" width="15"/>](https://owasp.org/?utm_source=chatgpt.com) **OWASP Foundation**: Explora el mundo de la ciberseguridad.
   
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum Logo" width="15"/>](https://krebsonsecurity.com) **Krebson Security**: Noticias de seguridad y análisis en profundidad.
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Krebson Security Logo" width="15"/>](https://krebsonsecurity.com) **Krebson Security**: Noticias de seguridad y análisis en profundidad.
  
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="EVM Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain.
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Hack the Box Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain.
   
 Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
 
@@ -117,7 +117,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/isaac-maldonado-96344414b/)
 </br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=abigailmaldonado128@gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
 
 
 <br>
@@ -161,11 +161,11 @@ Per chi desidera approfondire la mia esperienza nello Sviluppo Full-Stack, nella
 
 Sono appassionato della tecnologia di cybersicurezza e del suo impatto nel settore finanziario, farmaceutico, governativo e oltre. Ecco alcuni aspetti legati a criptovalute, cybersecurity e hacking che mi interessano:
 
-- [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin Logo" width="15"/>](https://owasp.org/?utm_source=chatgpt.com) **OWASP Foundation: Esplora il mondo della cybersicurezza.
+- [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Qwasp Foundation Logo" width="15"/>](https://owasp.org/?utm_source=chatgpt.com) **OWASP Foundation: Esplora il mondo della cybersicurezza.
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum Logo" width="15"/>](https://krebsonsecurity.com)  **Krebs on Security: Notizie e indagini approfondite sulla sicurezza.
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Krebson Security Logo" width="15"/>](https://krebsonsecurity.com)  **Krebson Security: Notizie e indagini approfondite sulla sicurezza.
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="EVM Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box: Crea e mantieni team di cybersecurity altamente performanti per proteggere le organizzazioni da minacce reali.
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Hack the Box Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box: Crea e mantieni team di cybersecurity altamente performanti per proteggere le organizzazioni da minacce reali.
 
 Sono desideroso di continuare ad approfondire queste tecnologie e il loro impatto trasformativo nelle diverse industrie. Se desideri discutere di programmazione, cybersecurity o innovazioni correlate, sarò felice di connettermi e scambiare idee.
 
@@ -175,9 +175,8 @@ Se hai domande, suggerimenti o vuoi parlare di sviluppo web o cybersecurity, puo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/isaac-maldonado-96344414b/)
 </br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=abigailmaldonado128@gmail.com&labelColor=black&color=%23EA4335)](mailto:abigailmaldonado128@gmail.com)
 
 <br>
 
 Spero che tu possa divertirti esplorando il mio repository! Grazie per la visita! 👋
-
