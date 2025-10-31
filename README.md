@@ -128,7 +128,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 ------
 
 
-# Ciao, sono Isaac Maldonado 👨🏻‍💻 It 
+# Ciao, sono Isaac Maldonado 👨🏻‍💻 IT 
 ### Sviluppatore Full-Stack ed Entusiasta di Cybersecurity & Data Analysis 🚀
 
 ![https://www.linkedin.com/in/isaac-maldonado-96344414b/](IsaacMaldonadoCode1.png)
@@ -145,11 +145,11 @@ Questo repository ospita il codice sorgente del mio portfolio professionale, che
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() [![EVM](https://img.shields.io/badge/EVM-white?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=black&color=%233C3C3D)]() [![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black&color=%23363636)]()
 
-Sviluppo Web: HTML, CSS, JavaScript
-Tecnologie Backend: Python, Node.js
-Framework Front-End: React, Vue.js
-cybersicurezza: Wireshark, Metasploit, Kali Linux
-Analisi dei Dati: NumPy, RStudio, Tableau
+- Sviluppo Web: HTML, CSS, JavaScript
+- Tecnologie Backend: Python, Node.js
+- Framework Front-End: React, Vue.js
+- cybersicurezza: Wireshark, Metasploit, Kali Linux
+- Analisi dei Dati: NumPy, RStudio, Tableau
 
 <br>
 ## Link Rilevanti 🌐
